@@ -1,18 +1,21 @@
-ING. IRAM GÓMEZ VÁZQUEZ
-    
- Lugar y fecha de nacimiento: Guadalajara Jalisco, México. 
-14 de Agosto de 1984.
-Estado Civil: Casado.
-Dirección actual: Jesús Ruíz #440. 
-Col. Insurgentes, Guadalajara Jalisco.
+<html>
+    <head>
+        <title>Curriculum Vitae</title>
+    </head>
+    <body>
+      
+         <center>Ing. Iram Gómez Vázquez.</center>
+         Esta es una línea, y a continuación insertamos un salto de línea.<br/>
+         <p align="right">  Lugar y fecha de nacimiento: Guadalajara Jalisco, México.<br/>
+14 de Agosto de 1984.<br/>
+Estado Civil: Casado.<br/>
+Dirección actual: Jesús Ruíz #440.<br/>
+Col. Insurgentes, Guadalajara Jalisco.<br/>
 Dirección de correo electrónico: imua_lama@yahoo.com.mx
- ó iqhiram@gmail.com
+ ó iqhiram@gmail.com<br/>
 Telefono(s): Casa: 33309084 
-Cel: 3334437742
-
-
-
-INTERÉS PROFESIONAL
+Cel: 3334437742<br/>
+ <p>INTERÉS PROFESIONAL
 
 •	Docencia de la Química.
 •	Docencia de la Física.
@@ -114,5 +117,5 @@ CUCEI.
 •	Google for education. Certificación: Teacher Level1
 
 IDIOMAS.
-•	Inglés: 80%.
+•	Inglés: 80%.</p>
 
